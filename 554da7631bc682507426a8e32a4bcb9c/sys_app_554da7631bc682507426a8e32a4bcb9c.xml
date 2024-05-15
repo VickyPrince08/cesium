@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>824da7631bc682507426a8e32a4bcbc2</logo>
+        <menu/>
+        <name>Cesium</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_ncsp_cesium</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>3D Map</short_description>
+        <source>x_ncsp_cesium</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 04:48:38</sys_created_on>
+        <sys_id>554da7631bc682507426a8e32a4bcb9c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 04:48:41</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <encryption_context/>
+        <file_name>cesium.png</file_name>
+        <hash>d3696cc845cc05f1f130d47e3292b3be22717c626019f68b87a035731fac16dd</hash>
+        <image_height>204</image_height>
+        <image_width>204</image_width>
+        <size_bytes>3180</size_bytes>
+        <size_compressed>3203</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 04:48:41</sys_created_on>
+        <sys_id>824da7631bc682507426a8e32a4bcbc2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 04:48:41</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>554da7631bc682507426a8e32a4bcb9c</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="cesium.png" sys_id="824da7631bc682507426a8e32a4bcbc2">824da7631bc682507426a8e32a4bcbc2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 04:48:41</sys_created_on>
+        <sys_id>c24da7631bc682507426a8e32a4bcbc2</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4260</length>
+        <position>1</position>
+        <sys_attachment display_value="cesium.png" sys_id="824da7631bc682507426a8e32a4bcbc2">824da7631bc682507426a8e32a4bcbc2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 04:48:41</sys_created_on>
+        <sys_id>464da7631bc682507426a8e32a4bcbc2</sys_id>
+    </sys_attachment_doc>
+</record_update>

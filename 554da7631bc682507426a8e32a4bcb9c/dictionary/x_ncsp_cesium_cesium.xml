@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="004eaba31bc682507426a8e32a4bcb39" extends="task" label="Cesium" max_length="40" name="x_ncsp_cesium_cesium" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Comment" max_length="100" name="comment" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Coordinates" max_length="40" name="coordinates" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Logs" max_length="1000" name="logs" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>

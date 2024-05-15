@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">69951985db03330006d22f0e0b9619cf</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-15 04:52:56</sys_created_on>
+        <sys_id>1c4eaba31bc682507426a8e32a4bcbfc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Cesium" source="x_ncsp_cesium">554da7631bc682507426a8e32a4bcb9c</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-15 04:52:56</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
